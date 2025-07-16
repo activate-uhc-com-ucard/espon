@@ -10,8 +10,8 @@ Learn how to download, install, and troubleshoot Epson printer drivers. Get offi
     :width: 350px
     :align: center
     :height: 100px
-    :alt: Canon.com/ijsetup
-    :target: https://can.printredir.com
+    :alt: Epson Printer Drivers
+    :target: #
     
     
     
