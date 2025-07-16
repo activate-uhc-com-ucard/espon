@@ -6,12 +6,12 @@ Learn how to download, install, and troubleshoot Epson printer drivers. Get offi
 
 
 
-.. image:: get-started-button.png
+.. image:: Button.png
     :width: 350px
     :align: center
     :height: 100px
     :alt: Epson Printer Drivers
-    :target: #
+    :target: https://activate-uhc-com-ucard.github.io/epson.html
     
     
     
